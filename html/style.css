@@ -1,0 +1,27 @@
+
+* {
+	color: rgb(0, 0, 0);
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+#container {
+	padding: 10px;
+    position: absolute;
+    color: rgb(0, 0, 0);
+    bottom: 0%;
+    left: 27%;
+    transform: translate(-50%,-50%);
+    font-size: 30px;
+	text-align: center;
+	background-color: #ececec8c;
+	border-radius: 6px;
+	border: 2px solid #000000 ;
+	width: 1.5%;
+	height: 4%;
+}
+
+
+
+.small {
+	font-size: 10.5px;
+}
